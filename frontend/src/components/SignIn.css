@@ -1,0 +1,69 @@
+.SignUp {
+    background-image: url(../img/detailed_hand_painted_pink_watercolour_background_0509.jpg);
+    background-size: cover;
+    height: 100vh;
+    margin: 0; /* Optional: Remove any default margin */
+    padding: 0; /* Optional: Remove any default padding */
+    display: flex; /* Optional: Use flexbox for additional layout flexibility */
+    justify-content: center; /* Optional: Center content horizontally */
+    align-items: center; /* Optional: Center content vertically */
+}
+
+.formx {
+    background-color: #f8f4ec61;
+    padding: 30px;
+    border: 1px solid #402B3A;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column; /* Ensure the items stack vertically */
+    align-items: center; /* Center items horizontally */
+    justify-content: center; /* Center items vertically */
+    margin: 0 auto; /* Center the form horizontally within its parent */
+}
+
+
+.signupLogo {
+    object-fit: contain;
+    padding: 10px 0px;
+    width: 100px;
+    height: 70px; 
+}
+
+.loginpara{
+    color: rgba(var(--f52,142,142,142),1);
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 20px;
+    margin: 0px 40px 20px 40px;
+}
+
+input{
+    display: flex;
+    padding: 5px;
+    align-items: center;
+    margin-bottom: 8px;
+    border-radius: 3px;
+    font-size: 16px;
+    box-sizing: border-box;
+    border: 1px solid #402B3A;
+}
+
+#submit-btn1 {
+    background-color: #D63484;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    padding: 5px 10px;
+    margin-top: 20px;
+    transition: background-color 0.3s ease; /* Add smooth transition effect */
+}
+
+#submit-btn:hover {
+    background-color: #E870A1; 
+    cursor: pointer;/* Change to the desired hover color */
+}
+
+.form2{
+    padding: 20px;
+}

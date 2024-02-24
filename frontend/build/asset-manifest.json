@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11514874.css",
+    "main.js": "/static/js/main.236f8b18.js",
+    "static/media/detailed_hand_painted_pink_watercolour_background_0509.jpg": "/static/media/detailed_hand_painted_pink_watercolour_background_0509.135a9c2d1a4a29685bfc.jpg",
+    "static/media/logo.png": "/static/media/logo.b9ff78fbc8e694edda54.png",
+    "index.html": "/index.html",
+    "main.11514874.css.map": "/static/css/main.11514874.css.map",
+    "main.236f8b18.js.map": "/static/js/main.236f8b18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11514874.css",
+    "static/js/main.236f8b18.js"
+  ]
+}
